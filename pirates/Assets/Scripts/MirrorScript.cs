@@ -36,6 +36,6 @@ public class MirrorScript : MonoBehaviour {
     }
   public  void RotateMirror()
     {
-        transform.Rotate(0, 0, transform.position.z +90);
+        transform.Rotate(0, 0, 90);
     }
 }
